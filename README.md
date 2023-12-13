@@ -44,7 +44,7 @@ Extra Feature:
 
 ### Links
 
-- Live Site URL: [link]()
+- Live Site URL: [link](https://task-management-app-react-tailwind-redux.vercel.app/)
 
 ### Built with
 
